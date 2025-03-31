@@ -19,3 +19,7 @@ Responsive Design: Ensures compatibility across different screen sizes.
 Basic Animations & Effects: Smooth user experience with CSS and JavaScript enhancements.
 
 This project demonstrates proficiency in front-end development and user interface design, making it a great addition to a portfolio.
+![1](https://github.com/user-attachments/assets/ea915a9e-ee9e-4be2-9105-ad7425ef2cdb)
+![2](https://github.com/user-attachments/assets/6991810e-78ef-4c10-b5ce-8354bd5cc6f0)
+![3](https://github.com/user-attachments/assets/8d204faf-acce-497b-a538-f23672f66ea2)
+![4](https://github.com/user-attachments/assets/9653425e-791d-40cc-86b1-a586feb50a47)
